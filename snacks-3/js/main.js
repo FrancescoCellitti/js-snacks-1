@@ -4,4 +4,4 @@ for (i = 0; i < F10; i++) {
     numeroIniziale = numeroIniziale + numero
 
 }
-console.log(numeroIniziale
+console.log(numeroIniziale)
